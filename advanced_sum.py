@@ -1,7 +1,12 @@
 def adv_sum ():
-    n = int(input(" n: "))
-    while n:
-        r =+ n
-    print(r)
+    t = 0
 
-adv_sum()
+    while True:
+        x = int(input(' n: '))
+        t += x
+
+        if x == 0:
+            break
+
+        print(f' Total: {t}')
+    return t
