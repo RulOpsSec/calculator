@@ -12,8 +12,8 @@ Advanced Sum: This allows you to sum N numbers. To exit the advanced sum and ret
 
 Usage:
 You can choose from the following options:
-    + for Sum
-    - for Subtraction
-    * for Multiplication
-    / for Division
-   ++ for Advanced Sum
+   1. + for Sum
+   2. - for Subtraction
+   3. * for Multiplication
+   4. / for Division
+   5. ++ for Advanced Sum
